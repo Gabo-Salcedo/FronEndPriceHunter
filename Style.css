@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+* {
+    text-align: left;
+	
+}
+
+header {
+    width: 100%;
+    height: 570px;
+    background-color: #F0FF06;
+    background-position: 0 0%;
+}
+body {
+
+
+
+}
+.marggin {
+    padding-left: 33px;
+    padding-top: 19px;
+}
+.categories {
+    width: 100%;
+    background-color: #FF3F42;
+    height: 109px;
+}
+.nav-search {
+
+}
+
+.Suggested {
+    background-image: url(url);
+    background-color: #C985DF;
+    width: 100%;
+    height: 448px;
+}
+.Mostwanted {
+    background-color: #43FF4D;
+    width: 100%;
+    height: 406px;
+}
+.Pie {
+    background-color: #FFD441;
+    width: 100%;
+    height: 50px;
+}
