@@ -7,7 +7,6 @@
 
 header {
     width: 100%;
-    height: 300px;
     background-color: #F0FF06;
     background-position: 0 0%;
 }
@@ -23,7 +22,6 @@ body {
 .categories {
     width: 100%;
     background-color: #FAF7F7;
-    height: 109px;
 }
 .nav-search {
 
@@ -33,20 +31,18 @@ body {
     background-image: url(url);
     background-color: #FFFFFF;
     width: 100%;
-    height: 600px;
 }
 .Mostwanted {
-    background-color: #F7FAFC;
     width: 100%;
-    height: 684px;
 }
 .Pie {
     background-color: #FFD441;
     width: 100%;
-    height: 50px;
 }
 .grid {
     height: 180px;
     background: #DAD6D6;
 }
+
+
 	
